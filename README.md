@@ -1,12 +1,12 @@
-# Simulacros-Examen-GPDS
+# Repaso Tests GPDS
 
 Este es un pequeño código para practicar los tests de SIDRA de GPDS más cómodamente y con estadísticas.
 
 ## Uso
 
 - El programa permite seleccionar un PDF de preguntas (formato compatible con los subidos por los profesores).
-- Se extraen preguntas, se modifica el orden y se realiza un simulacro de examen tipo test.
-- Al finalizar, se muestra un resumen del simulacro con el total de preguntas realizadas, nota, aciertos, fallos y preguntas en blanco.
+- Se extraen preguntas, se modifica el orden y se realiza el cuestionario subido.
+- Al finalizar, se muestra un resumen del cuestionario con el total de preguntas realizadas, nota, aciertos, fallos y preguntas en blanco.
 - Puedes saltar una pregunta (no cuenta en el total).
 - El botón "Ver estadísticas" en el menú principal permite consultar estadísticas globales y detalladas.
 
