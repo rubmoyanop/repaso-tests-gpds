@@ -1,0 +1,410 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 460>>
+stream
+2 J
+0.57 w
+BT /F1 20.00 Tf ET
+BT 107.57 774.94 Td (Sistema de Respuesta a Distancia Móvil) Tj ET
+BT /F2 20.00 Tf ET
+BT 59.53 718.25 Td (Autor: ) Tj ET
+BT 59.53 670.06 Td (Fecha: 08 de Marzo de 2025) Tj ET
+BT 59.53 624.71 Td (Cuestionario:) Tj ET
+BT 59.53 604.86 Td (                      Id: jnx2f) Tj ET
+BT 59.53 585.02 Td (                      Nombre: B3-T3-2 Tecns y Herrs 24-25) Tj ET
+BT 59.53 528.33 Td (Número de preguntas: 10) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 6 0 R>>
+endobj
+6 0 obj
+<</Length 900>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 769.28 Td (Pregunta número: 1) Tj ET
+BT 119.22 689.91 Td (El lenguaje Z es una técnica formal que:) Tj ET
+BT 59.53 590.69 Td ( A: Usa sólo la teoría de especificaciones algebraicas) Tj ET
+BT 59.53 570.85 Td (como base formal matemática) Tj ET
+BT 59.53 551.01 Td ( B: Está basado en lógica de predicados de primer) Tj ET
+BT 59.53 531.17 Td (orden y especificaciones algebraicas) Tj ET
+BT 59.53 511.32 Td ( C: Usa, básicamente, teoría de conjuntos y lógica de) Tj ET
+BT 59.53 491.48 Td (predicados de primer orden) Tj ET
+BT 59.53 471.64 Td ( D: Se caracteriza por la existencia de numerosos) Tj ET
+BT 59.53 451.80 Td (lenguajes ejecutables que permiten la edición y) Tj ET
+BT 59.53 431.95 Td (representación de diagramas y gráficos expresados) Tj ET
+BT 59.53 412.11 Td (en esta notación) Tj ET
+BT 59.53 372.43 Td ( Respuesta correcta: C) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 8 0 R>>
+endobj
+8 0 obj
+<</Length 835>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 2) Tj ET
+BT 94.21 678.57 Td (Las unidades de especificación de sistemas o) Tj ET
+BT 215.38 658.72 Td (software en Z son:) Tj ET
+BT 59.53 559.51 Td ( A: Operaciones, denotando los cambios de estado,) Tj ET
+BT 59.53 539.67 Td (exclusivamente) Tj ET
+BT 59.53 519.83 Td ( B: Esquemas y Operaciones, denotando) Tj ET
+BT 59.53 499.98 Td (respectivamente estados y sus cambios) Tj ET
+BT 59.53 480.14 Td ( C: Esquemas denotando los estados,) Tj ET
+BT 59.53 460.30 Td (exclusivamente) Tj ET
+BT 59.53 440.46 Td ( D: No existen unidades de especificación en Z, ésta) Tj ET
+BT 59.53 420.61 Td (se realiza de forma compacta, no modular, es uno de) Tj ET
+BT 59.53 400.77 Td (los principales problemas de Z) Tj ET
+BT 59.53 361.09 Td ( Respuesta correcta: B) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 10 0 R>>
+endobj
+10 0 obj
+<</Length 884>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 3) Tj ET
+BT 101.99 678.57 Td (Indique, con respecto a las especificaciones) Tj ET
+BT 107.03 658.72 Td (formales, qué afirmación es VERDADERA:) Tj ET
+BT 59.53 559.51 Td ( A: Las especificaciones formales aumentan el coste) Tj ET
+BT 59.53 539.67 Td (de la fase de especificación) Tj ET
+BT 59.53 519.83 Td ( B: Las especificaciones formales aseguran la) Tj ET
+BT 59.53 499.98 Td (corrección del software construido con ellas) Tj ET
+BT 59.53 480.14 Td ( C: Las especificaciones formales aumentan el coste) Tj ET
+BT 59.53 460.30 Td (de la fase de validación) Tj ET
+BT 59.53 440.46 Td ( D: Las especificaciones formales han dejado de) Tj ET
+BT 59.53 420.61 Td (usarse en la construcción de sistemas de seguridad) Tj ET
+BT 59.53 400.77 Td (crítica) Tj ET
+BT 59.53 361.09 Td ( Respuesta correcta: A) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 12 0 R>>
+endobj
+12 0 obj
+<</Length 643>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 4) Tj ET
+BT 72.00 678.57 Td (De las siguientes técnicas para modelar requisitos,) Tj ET
+BT 64.76 658.72 Td (indica cuál es más expresiva, en función de los tipos) Tj ET
+BT 73.08 638.88 Td (de requisitos que se pueden representar con ellas:) Tj ET
+BT 59.53 539.67 Td ( A: Teoría de Especificaciones Algebraicas) Tj ET
+BT 59.53 519.83 Td ( B: Diagrama de casos de uso de UML) Tj ET
+BT 59.53 499.98 Td ( C: Diagramas Entidad-Relación extendidos) Tj ET
+BT 59.53 480.14 Td ( D: Diagramas de clases de UML) Tj ET
+BT 59.53 440.46 Td ( Respuesta correcta: A) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 14 0 R>>
+endobj
+14 0 obj
+<</Length 1130>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 5) Tj ET
+BT 223.72 678.57 Td (¿Qué es ReqIF?) Tj ET
+BT 59.53 579.35 Td ( A: Un método de ingeniería de requisitos que se) Tj ET
+BT 59.53 559.51 Td (utiliza especialmente para la definición de sistemas) Tj ET
+BT 59.53 539.67 Td (que proceden de la integración de otros existentes) Tj ET
+BT 59.53 519.83 Td (con anterioridad) Tj ET
+BT 59.53 499.98 Td ( B: Una técnica de elicitación \(o captura\) de) Tj ET
+BT 59.53 480.14 Td (requisitos, que se puede utilizar como alternativa a) Tj ET
+BT 59.53 460.30 Td (las entrevistas) Tj ET
+BT 59.53 440.46 Td ( C: Un formato de intercambio de requisitos entre) Tj ET
+BT 59.53 420.61 Td (herramientas CARE, que es un estándar de facto del) Tj ET
+BT 59.53 400.77 Td (OMG) Tj ET
+BT 59.53 380.93 Td ( D: Una herramienta CARE, basada en técnicas) Tj ET
+BT 59.53 361.09 Td (formales, que permite seleccionar de manera) Tj ET
+BT 59.53 341.24 Td (automática los requisitos más adecuados para) Tj ET
+BT 59.53 321.40 Td (sistemas de enclavamiento ferroviario) Tj ET
+BT 59.53 281.72 Td ( Respuesta correcta: C) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 16 0 R>>
+endobj
+16 0 obj
+<</Length 1507>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 6) Tj ET
+BT 91.43 678.57 Td (Para la especificación de un nuevo sistema de) Tj ET
+BT 64.19 658.72 Td (información de gestión de nóminas de socios en una) Tj ET
+BT 115.87 638.88 Td (cooperativa de enseñanza de inglés, con) Tj ET
+BT 67.56 619.04 Td (aproximadamente 37 miembros, la mejor técnica de) Tj ET
+BT 117.01 599.20 Td (especificación de requisitos a usar sería:) Tj ET
+BT 59.53 499.98 Td ( A: Z o especificaciones algebraicas, ambos) Tj ET
+BT 59.53 480.14 Td (proporcionan el máximo rigor en la especificación) Tj ET
+BT 59.53 460.30 Td ( B: No usaría una técnica formal, sino cualquier otra) Tj ET
+BT 59.53 440.46 Td (más convencional e intuitiva, basada en texto y) Tj ET
+BT 59.53 420.61 Td (notaciones diagramáticas, como UML o AE \(Análisis) Tj ET
+BT 59.53 400.77 Td (Estructurado\)) Tj ET
+BT 59.53 380.93 Td ( C: Lo ideal sería una solución intermedia en la que) Tj ET
+BT 59.53 361.09 Td (intervengan especificaciones algebraicas \(con Maude) Tj ET
+BT 59.53 341.24 Td (para los prototipos evolutivos\), texto y notaciones) Tj ET
+BT 59.53 321.40 Td (diagramáticas como UML o AE) Tj ET
+BT 59.53 301.56 Td ( D: Especificaciones algebraicas, pues dispone de) Tj ET
+BT 59.53 281.72 Td (herramientas que ejecutan directamente las) Tj ET
+BT 59.53 261.87 Td (especificaciones y se pueden generar directamente) Tj ET
+BT 59.53 242.03 Td (los prototipos evolutivos) Tj ET
+BT 59.53 202.35 Td ( Respuesta correcta: B) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 18 0 R>>
+endobj
+18 0 obj
+<</Length 532>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 7) Tj ET
+BT 83.09 678.57 Td (Si participas en un proyecto de software para un) Tj ET
+BT 75.90 658.72 Td (sistema de enclavamiento ferroviario ¿Cuál de las) Tj ET
+BT 77.02 638.88 Td (siguientes herramientas CARE sugerirías utilizar?) Tj ET
+BT 59.53 539.67 Td ( A: PROVER) Tj ET
+BT 59.53 519.83 Td ( B: CMMi-DEV) Tj ET
+BT 59.53 499.98 Td ( C: Doors) Tj ET
+BT 59.53 480.14 Td ( D: Requisite ) Tj ET
+BT 59.53 440.46 Td ( Respuesta correcta: A) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 20 0 R>>
+endobj
+20 0 obj
+<</Length 927>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 8) Tj ET
+BT 140.92 678.57 Td (¿Qué son las herramientas CARE?) Tj ET
+BT 59.53 579.35 Td ( A: Herramientas que facilitan el trabajo mediante la) Tj ET
+BT 59.53 559.51 Td (representación de requisitos con métodos formales) Tj ET
+BT 59.53 539.67 Td ( B: Herramientas que facilitan el trabajo, permitiendo) Tj ET
+BT 59.53 519.83 Td (la definición y organización de requisitos en un) Tj ET
+BT 59.53 499.98 Td (determinado lenguaje formal) Tj ET
+BT 59.53 480.14 Td ( C: Herramientas que facilitan el trabajo, permitiendo) Tj ET
+BT 59.53 460.30 Td (la definición, organización, almacenamiento y gestión) Tj ET
+BT 59.53 440.46 Td (de los requisitos) Tj ET
+BT 59.53 420.61 Td ( D: Son exactamente lo mismo que las denominadas) Tj ET
+BT 59.53 400.77 Td (CASE, de uso por ingenieros de software) Tj ET
+BT 59.53 361.09 Td ( Respuesta correcta: C) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 22 0 R>>
+endobj
+22 0 obj
+<</Length 725>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 9) Tj ET
+BT 67.00 678.57 Td (¿Cuál de los siguientes servicios NO son habituales) Tj ET
+BT 88.67 658.72 Td (en una herramienta CARE convencional \(como) Tj ET
+BT 210.95 638.88 Td (Doors o ReqView\)?) Tj ET
+BT 59.53 539.67 Td ( A: Integración con otras herramientas) Tj ET
+BT 59.53 519.83 Td ( B: Detección de errores en el contenido de los) Tj ET
+BT 59.53 499.98 Td (requisitos introducidos) Tj ET
+BT 59.53 480.14 Td ( C: Generación de informes de alto nivel) Tj ET
+BT 59.53 460.30 Td ( D: Permitir el uso de plantillas para la) Tj ET
+BT 59.53 440.46 Td (documentación del proyecto) Tj ET
+BT 59.53 400.77 Td ( Respuesta correcta: B) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 24 0 R>>
+endobj
+24 0 obj
+<</Length 712>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 10) Tj ET
+BT 75.32 678.57 Td (Para el desarrollo de un software aeroportuario se) Tj ET
+BT 60.85 658.72 Td (requiere una buena interfaz de usuario,  potenciar los) Tj ET
+BT 69.78 638.88 Td (aspectos de reutilización y es prioritario asegurar la) Tj ET
+BT 73.67 619.04 Td (calidad de los requisitos, ¿Qué herramienta CARE) Tj ET
+BT 136.46 599.20 Td (seleccionarías entre las siguientes?:) Tj ET
+BT 59.53 499.98 Td ( A: PROVER) Tj ET
+BT 59.53 480.14 Td ( B: MAUDE) Tj ET
+BT 59.53 460.30 Td ( C: SIRENc, conjuntamente con SIRENd	) Tj ET
+BT 59.53 440.46 Td ( D: TRC Systems Engineering Suite) Tj ET
+BT 59.53 400.77 Td ( Respuesta correcta: D) Tj ET
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R ]
+/Count 11
+/MediaBox [0 0 841.89 595.28]
+>>
+endobj
+25 0 obj
+<</Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+26 0 obj
+<</Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 25 0 R
+/F2 26 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+27 0 obj
+<<
+/Producer (FPDF 1.7)
+/CreationDate (D:20250308204016)
+>>
+endobj
+28 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /Fit]
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000011016 00000 n 
+0000011370 00000 n 
+0000000009 00000 n 
+0000000117 00000 n 
+0000000626 00000 n 
+0000000734 00000 n 
+0000001683 00000 n 
+0000001791 00000 n 
+0000002675 00000 n 
+0000002784 00000 n 
+0000003718 00000 n 
+0000003828 00000 n 
+0000004521 00000 n 
+0000004631 00000 n 
+0000005812 00000 n 
+0000005922 00000 n 
+0000007480 00000 n 
+0000007590 00000 n 
+0000008172 00000 n 
+0000008282 00000 n 
+0000009259 00000 n 
+0000009369 00000 n 
+0000010144 00000 n 
+0000010254 00000 n 
+0000011171 00000 n 
+0000011273 00000 n 
+0000011486 00000 n 
+0000011562 00000 n 
+trailer
+<<
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+>>
+startxref
+11637
+%%EOF

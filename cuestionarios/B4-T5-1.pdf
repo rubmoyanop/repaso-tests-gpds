@@ -1,0 +1,417 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 458>>
+stream
+2 J
+0.57 w
+BT /F1 20.00 Tf ET
+BT 107.57 774.94 Td (Sistema de Respuesta a Distancia Móvil) Tj ET
+BT /F2 20.00 Tf ET
+BT 59.53 718.25 Td (Autor: ) Tj ET
+BT 59.53 670.06 Td (Fecha: 30 de Abril de 2025) Tj ET
+BT 59.53 624.71 Td (Cuestionario:) Tj ET
+BT 59.53 604.86 Td (                      Id: yitvc) Tj ET
+BT 59.53 585.02 Td (                      Nombre: B4-T5-1 Met. agiles 24-25) Tj ET
+BT 59.53 528.33 Td (Número de preguntas: 10) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 6 0 R>>
+endobj
+6 0 obj
+<</Length 986>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 769.28 Td (Pregunta número: 1) Tj ET
+BT 77.55 689.91 Td (Indica cuál de los siguientes elementos NO forma) Tj ET
+BT 93.09 670.06 Td (parte expresa de los conceptos manejados en) Tj ET
+BT 256.52 650.22 Td (KANBAN) Tj ET
+BT 59.53 551.01 Td ( A: Tableros de tareas, para visualizar los estados del) Tj ET
+BT 59.53 531.17 Td (proceso de desarrollo, mediante tarjetas) Tj ET
+BT 59.53 511.32 Td ( B: El llamado WIP \(Work in Progress\), que se usa) Tj ET
+BT 59.53 491.48 Td (para describir el número máximo de tareas que se) Tj ET
+BT 59.53 471.64 Td (puede realizar en cada fase de Kanban) Tj ET
+BT 59.53 451.80 Td ( C: La medición de los flujos de trabajo, con) Tj ET
+BT 59.53 431.95 Td (indicadores como el denominado "lead time") Tj ET
+BT 59.53 412.11 Td ( D: Ciclo de desarrollo, o modelo de proceso,) Tj ET
+BT 59.53 392.27 Td (estrictamente secuencial \(sin iteraciones\)) Tj ET
+BT 59.53 352.58 Td ( Respuesta correcta: D) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 8 0 R>>
+endobj
+8 0 obj
+<</Length 599>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 2) Tj ET
+BT 85.32 678.57 Td (Según diversos estudios y recomendaciones de) Tj ET
+BT 82.53 658.72 Td (expertos, ¿Cuál es el tamaño ideal de un equipo) Tj ET
+BT 255.42 638.88 Td (SCRUM?) Tj ET
+BT 59.53 539.67 Td ( A: No hay un tamaño estándar recomendado) Tj ET
+BT 59.53 519.83 Td ( B: Lo más grande posible, según los recursos de la) Tj ET
+BT 59.53 499.98 Td (organización) Tj ET
+BT 59.53 480.14 Td ( C: 3 ó menos ) Tj ET
+BT 59.53 460.30 Td ( D: Entre 3-9 ) Tj ET
+BT 59.53 420.61 Td ( Respuesta correcta: D) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 10 0 R>>
+endobj
+10 0 obj
+<</Length 1544>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 3) Tj ET
+BT 94.19 678.57 Td (En un proyecto de desarrollo de una app para) Tj ET
+BT 92.55 658.72 Td (seguimiento de alergias al pólen, necesitamos) Tj ET
+BT 95.91 638.88 Td (describir muy claramente la trazabilidad entre) Tj ET
+BT 207.05 619.04 Td (requisitos. Para ello:) Tj ET
+BT 59.53 519.83 Td ( A: No podemos usar Historias de Usuario, que no) Tj ET
+BT 59.53 499.98 Td (dan cuenta de la trazabilidad, sólo requisitos) Tj ET
+BT 59.53 480.14 Td (textuales convencionales siguiendo estándares del) Tj ET
+BT 59.53 460.30 Td (tipo de IEEE 830-1998 o bien ISO/IEC/IEEE) Tj ET
+BT 59.53 440.46 Td (29148-2011) Tj ET
+BT 59.53 420.61 Td ( B: Podemos usar tanto Historias de Usuario como) Tj ET
+BT 59.53 400.77 Td (requisitos textuales convencionales siguiendo) Tj ET
+BT 59.53 380.93 Td (estándares del tipo de IEEE 830-1998 o bien) Tj ET
+BT 59.53 361.09 Td (ISO/IEC/IEEE 29148-2011) Tj ET
+BT 59.53 341.24 Td ( C: Como en B, pero añadiendo obligatoriamente un) Tj ET
+BT 59.53 321.40 Td (árbol o matriz de trazabilidad a la documentación de) Tj ET
+BT 59.53 301.56 Td (SCRUM) Tj ET
+BT 59.53 281.72 Td ( D: No podemos usar requisitos textuales) Tj ET
+BT 59.53 261.87 Td (convencionales siguiendo estándares del tipo de) Tj ET
+BT 59.53 242.03 Td (IEEE 830-1998 o bien ISO/IEC/IEEE 29148-2011,) Tj ET
+BT 59.53 222.19 Td (que no dan cuenta de la trazabilidad, sólo Historias) Tj ET
+BT 59.53 202.35 Td (de Usuario) Tj ET
+BT 59.53 162.66 Td ( Respuesta correcta: B) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 12 0 R>>
+endobj
+12 0 obj
+<</Length 1079>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 4) Tj ET
+BT 92.54 678.57 Td (En un proyecto de desarrollo de software para) Tj ET
+BT 100.32 658.72 Td (gestionar el inventario completo de una gran) Tj ET
+BT 96.44 638.88 Td (empresa de distribución, con almacenes en 7) Tj ET
+BT 75.86 619.04 Td (comunidades autónomas, y donde el cliente exige) Tj ET
+BT 115.32 599.20 Td (que todos los procesos queden muy bien) Tj ET
+BT 229.27 579.35 Td (documentados:) Tj ET
+BT 59.53 480.14 Td ( A: Recomendaría usar un método iterativo e) Tj ET
+BT 59.53 460.30 Td (incremental, como RUP o el llamado proceso de) Tj ET
+BT 59.53 440.46 Td (Larman) Tj ET
+BT 59.53 420.61 Td ( B: Recomendaría usar un método ágil, como) Tj ET
+BT 59.53 400.77 Td (MAGERIT o SCRUM) Tj ET
+BT 59.53 380.93 Td ( C: Recomendaría usar un método ágil, como) Tj ET
+BT 59.53 361.09 Td (SCRUM o KANBAN) Tj ET
+BT 59.53 341.24 Td ( D: Recomendaría usar un método iterativo e) Tj ET
+BT 59.53 321.40 Td (incremental como MAGERIT o ITIL) Tj ET
+BT 59.53 281.72 Td ( Respuesta correcta: A) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 14 0 R>>
+endobj
+14 0 obj
+<</Length 1027>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 5) Tj ET
+BT 72.89 678.57 Td (El requisito "Como cliente, quiero poder ejecutar la) Tj ET
+BT 81.96 658.72 Td (app tanto en Android como en iOS, en todas sus) Tj ET
+BT 190.70 638.88 Td (versiones desde 2015": ) Tj ET
+BT 59.53 539.67 Td ( A: Puedo expresarlo sin problemas como Historia de) Tj ET
+BT 59.53 519.83 Td (Usuario) Tj ET
+BT 59.53 499.98 Td ( B: No puedo expresarlo como Historia de Usuario,) Tj ET
+BT 59.53 480.14 Td (ya que es un requisito no funcional) Tj ET
+BT 59.53 460.30 Td ( C: No puedo expresarlo como Historia de Usuario,) Tj ET
+BT 59.53 440.46 Td (aunque sea un requisito funcional) Tj ET
+BT 59.53 420.61 Td ( D: En realidad no es un requisito, sino una) Tj ET
+BT 59.53 400.77 Td (restricción del proyecto que por tanto sólo puede) Tj ET
+BT 59.53 380.93 Td (aparecer en la documentación del proyecto, no en la) Tj ET
+BT 59.53 361.09 Td (especificación de requisitos) Tj ET
+BT 59.53 321.40 Td ( Respuesta correcta: A) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 16 0 R>>
+endobj
+16 0 obj
+<</Length 938>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 6) Tj ET
+BT 65.88 678.57 Td (Un diagrama de BurnDown del Sprint muestra, cada) Tj ET
+BT 280.96 658.72 Td (día:) Tj ET
+BT 59.53 559.51 Td ( A: El coste efectivo del trabajo realizado hasta ese) Tj ET
+BT 59.53 539.67 Td (día, según su valor económico) Tj ET
+BT 59.53 519.83 Td ( B: Mediante tarjetas o "post it", el estado en que se) Tj ET
+BT 59.53 499.98 Td (encuentra cada Historia de Usuario o Tarea) Tj ET
+BT 59.53 480.14 Td (\(pendiente, en proceso, terminada,...\)) Tj ET
+BT 59.53 460.30 Td ( C: Una estimación de cuánto trabajo queda, hasta) Tj ET
+BT 59.53 440.46 Td (que el equipo haya terminado) Tj ET
+BT 59.53 420.61 Td ( D: El nivel de desgaste o cansancio físico, de cada) Tj ET
+BT 59.53 400.77 Td (miembro del equipo de desarrollo, de forma) Tj ET
+BT 59.53 380.93 Td (individualizada) Tj ET
+BT 59.53 341.24 Td ( Respuesta correcta: C) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 18 0 R>>
+endobj
+18 0 obj
+<</Length 499>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 7) Tj ET
+BT 70.88 678.57 Td (Indica cuál de los siguientes roles NO se considera) Tj ET
+BT 206.51 658.72 Td (como tal en SCRUM) Tj ET
+BT 59.53 559.51 Td ( A: Scrum master) Tj ET
+BT 59.53 539.67 Td ( B: Jefe de proyecto) Tj ET
+BT 59.53 519.83 Td ( C: Programador del equipo de desarrollo ) Tj ET
+BT 59.53 499.98 Td ( D: Dueño del producto \(Product owner\)) Tj ET
+BT 59.53 460.30 Td ( Respuesta correcta: B) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 20 0 R>>
+endobj
+20 0 obj
+<</Length 907>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 8) Tj ET
+BT 82.31 678.57 Td (En relación con las fases, eventos o "bloques de) Tj ET
+BT 139.59 658.72 Td (tiempo", un proyecto SCRUM tiene:) Tj ET
+BT 59.53 559.51 Td ( A: Una única fase, compuesta por un número de) Tj ET
+BT 59.53 539.67 Td (sprints determinados) Tj ET
+BT 59.53 519.83 Td ( B: Dos fases: Planificación del proyecto y conjunto) Tj ET
+BT 59.53 499.98 Td (de sprints o iteraciones) Tj ET
+BT 59.53 480.14 Td ( C: Tres fases: Planificación del proyecto, conjunto) Tj ET
+BT 59.53 460.30 Td (de sprints o iteraciones y fase de cierre o clausura) Tj ET
+BT 59.53 440.46 Td ( D: Tres fases: Planificación del proyecto, conjunto) Tj ET
+BT 59.53 420.61 Td (de sprints o iteraciones y conjunto de reuniones de) Tj ET
+BT 59.53 400.77 Td (Revisión de los Sprints) Tj ET
+BT 59.53 361.09 Td ( Respuesta correcta: C) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 22 0 R>>
+endobj
+22 0 obj
+<</Length 644>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 9) Tj ET
+BT 101.99 678.57 Td (¿En qué reuniones de Scrum se presenta el) Tj ET
+BT 59.76 658.72 Td (incremento del producto y se orientan las discusiones) Tj ET
+BT 165.91 638.88 Td (hacia el producto y el cliente?) Tj ET
+BT 59.53 539.67 Td ( A: En las reuniones de planificación del Sprint) Tj ET
+BT 59.53 519.83 Td ( B: En las reuniones diarias de Scrum) Tj ET
+BT 59.53 499.98 Td ( C: En las reuniones de revisión del Sprint) Tj ET
+BT 59.53 480.14 Td ( D: En las reuniones de retrospectiva del Sprint) Tj ET
+BT 59.53 440.46 Td ( Respuesta correcta: C) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 24 0 R>>
+endobj
+24 0 obj
+<</Length 910>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 10) Tj ET
+BT 75.31 678.57 Td (En relación con la  Lista de Producto \(PB, Product) Tj ET
+BT 79.23 658.72 Td (Backlog\) en SCRUM, indica la respuesta FALSA:) Tj ET
+BT 59.53 559.51 Td ( A: El Product Owner es el principal responsable del) Tj ET
+BT 59.53 539.67 Td (PB) Tj ET
+BT 59.53 519.83 Td ( B: El Scrum Master es el principal responsable del) Tj ET
+BT 59.53 499.98 Td (PB) Tj ET
+BT 59.53 480.14 Td ( C: El PB puede contener tanto Historias de Usuario) Tj ET
+BT 59.53 460.30 Td (como Tareas, incluso podría contener requisitos ) Tj ET
+BT 59.53 440.46 Td (textuales ordinarios o casos de uso.) Tj ET
+BT 59.53 420.61 Td ( D: Los elementos del PB pueden estar priorizados) Tj ET
+BT 59.53 400.77 Td (de manera ordenada, usando técnicas como la) Tj ET
+BT 59.53 380.93 Td (llamada "MoSCoW") Tj ET
+BT 59.53 341.24 Td ( Respuesta correcta: B) Tj ET
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R ]
+/Count 11
+/MediaBox [0 0 841.89 595.28]
+>>
+endobj
+25 0 obj
+<</Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+26 0 obj
+<</Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 25 0 R
+/F2 26 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+27 0 obj
+<<
+/Producer (FPDF 1.7)
+/CreationDate (D:20250430090125)
+>>
+endobj
+28 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /Fit]
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000011353 00000 n 
+0000011707 00000 n 
+0000000009 00000 n 
+0000000117 00000 n 
+0000000624 00000 n 
+0000000732 00000 n 
+0000001767 00000 n 
+0000001875 00000 n 
+0000002523 00000 n 
+0000002632 00000 n 
+0000004227 00000 n 
+0000004337 00000 n 
+0000005467 00000 n 
+0000005577 00000 n 
+0000006655 00000 n 
+0000006765 00000 n 
+0000007753 00000 n 
+0000007863 00000 n 
+0000008412 00000 n 
+0000008522 00000 n 
+0000009479 00000 n 
+0000009589 00000 n 
+0000010283 00000 n 
+0000010393 00000 n 
+0000011508 00000 n 
+0000011610 00000 n 
+0000011823 00000 n 
+0000011899 00000 n 
+trailer
+<<
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+>>
+startxref
+11974
+%%EOF

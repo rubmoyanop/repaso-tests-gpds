@@ -1,22 +1,43 @@
 # Simulacros-Examen-GPDS
-Este es un pequeño código para prácticar los tests de SIDRA de GPDS más cómodamente.
+
+Este es un pequeño código para practicar los tests de SIDRA de GPDS más cómodamente y con estadísticas.
 
 ## Uso
-Esta pensado para leer los ficheros subidos por los profesores de la asignatura.
-Aun así, se puede cambiar fácilmente la expresión regular con la que se buscan preguntas de modo que funcione con más PDFs.
 
-Notas para el uso del programa:
-- Al terminar de analizar todas las páginas del PDF se muestran un resumen del simulacro con el total de preguntas realizadas, la nota, etc.
-- Para dejar en blanco una respuesta simplemente pulsa Enter sin escribir nada.
-- En caso de querer terminar el simulacro antes de tiempo, con Ctrl+C se detienen las preguntas y muestra el resumen del simulacro. 
-- Con el argumento -n, puedes especificar un número máximo de preguntas a realizar en el test. (Nota: si no hay más preguntas en el pdf, se acaba de todos modos)
-- Puedes responder a una pregunta con una 'S' para saltarla y que no cuente en el total de preguntas. Útil cuando no quieres que cuente una pregunta repetida que ya conocías la respuesta.
+- El programa permite seleccionar un PDF de preguntas (formato compatible con los subidos por los profesores).
+- Se extraen preguntas, se modifica el orden y se realiza un simulacro de examen tipo test.
+- Al finalizar, se muestra un resumen del simulacro con el total de preguntas realizadas, nota, aciertos, fallos y preguntas en blanco.
+- Puedes saltar una pregunta (no cuenta en el total).
+- El botón "Ver estadísticas" en el menú principal permite consultar estadísticas globales y detalladas.
 
+## Estadísticas
 
-# Dependecias
-Si os da algun error de dependecias al ejecutarlo, podeis probar a instalar:
-- PyPDF2
-- regex
-- textwrap
+- El sistema guarda automáticamente estadísticas de cada pregunta, incluyendo:
+  - Número de intentos y fallos.
+  - Tiempo medio de respuesta.
+  - Historial de respuestas.
+  - Cuestionario (nombre del archivo PDF de origen).
+- En la pestaña de estadísticas puedes ver:
+  - Resumen general.
+  - Preguntas más problemáticas (ordenadas por tasa de fallos e intentos).
+  - Estadísticas por cuestionario.
+  - Evolución del rendimiento (con fecha y hora).
+  - Tiempos medios de respuesta por cuestionario.
+  - Detalle de cada pregunta (doble clic).
 
-mediante el comando: pip install xxx
+## Dependencias
+
+Instala las dependencias necesarias con:
+```bash
+pip install -r requirements.txt
+```
+
+El archivo `requirements.txt` contiene todas las dependencias necesarias para ejecutar el programa.
+
+## Ejecución
+
+Ejecuta el programa con el siguiente comando:
+
+```bash
+python testsGPDS.py
+```

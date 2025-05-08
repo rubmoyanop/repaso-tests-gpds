@@ -1,0 +1,399 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 459>>
+stream
+2 J
+0.57 w
+BT /F1 20.00 Tf ET
+BT 107.57 774.94 Td (Sistema de Respuesta a Distancia Móvil) Tj ET
+BT /F2 20.00 Tf ET
+BT 59.53 718.25 Td (Autor: ) Tj ET
+BT 59.53 670.06 Td (Fecha: 15 de Febrero de 2025) Tj ET
+BT 59.53 624.71 Td (Cuestionario:) Tj ET
+BT 59.53 604.86 Td (                      Id: rsy2u) Tj ET
+BT 59.53 585.02 Td (                      Nombre: B3-T1-2 Introd. IR 24-25) Tj ET
+BT 59.53 528.33 Td (Número de preguntas: 10) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 6 0 R>>
+endobj
+6 0 obj
+<</Length 1319>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 769.28 Td (Pregunta número: 1) Tj ET
+BT 79.76 689.91 Td (En Ingeniería del Software, ¿cuál es la diferencia) Tj ET
+BT 99.23 670.06 Td (entre el ciclo de vida y el ciclo de desarrollo?) Tj ET
+BT 59.53 570.85 Td ( A: El ciclo de vida engloba desde la concepción del) Tj ET
+BT 59.53 551.01 Td (software hasta su retirada mientras que el ciclo de) Tj ET
+BT 59.53 531.17 Td (desarrollo va desde el análisis hasta la entrega al) Tj ET
+BT 59.53 511.32 Td (usuario) Tj ET
+BT 59.53 491.48 Td ( B: En ambos casos, el ciclo comienza al inicio del) Tj ET
+BT 59.53 471.64 Td (desarrollo del software, pero el ciclo de desarrollo) Tj ET
+BT 59.53 451.80 Td (engloba hasta el fin de su uso mientras que el ciclo) Tj ET
+BT 59.53 431.95 Td (de vida llega hasta la entrega al cliente) Tj ET
+BT 59.53 412.11 Td ( C: En ambos casos, el ciclo finaliza con la retirada) Tj ET
+BT 59.53 392.27 Td (del software, pero el ciclo de vida comienza en la) Tj ET
+BT 59.53 372.43 Td (concepción del producto mientras que el ciclo de) Tj ET
+BT 59.53 352.58 Td (desarrollo comienza al inicio del desarrollo) Tj ET
+BT 59.53 332.74 Td ( D: No existen diferencias entre estos conceptos,) Tj ET
+BT 59.53 312.90 Td (hacen referencia a lo mismo) Tj ET
+BT 59.53 273.21 Td ( Respuesta correcta: A) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 8 0 R>>
+endobj
+8 0 obj
+<</Length 831>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 2) Tj ET
+BT 69.22 678.57 Td (La sentencia “La aplicación mostrará la información) Tj ET
+BT 69.75 658.72 Td (actualizada sobre los alumnos que hayan adquirido) Tj ET
+BT 85.34 638.88 Td (en préstamo un determinado libro” DESCRIBE: ) Tj ET
+BT 59.53 539.67 Td ( A: No es un requisito válido, al no ser posible su) Tj ET
+BT 59.53 519.83 Td (comprobación de forma medible) Tj ET
+BT 59.53 499.98 Td ( B: Un requisito no funcional) Tj ET
+BT 59.53 480.14 Td ( C: Un requisito que limita las acciones asociadas) Tj ET
+BT 59.53 460.30 Td (con un objeto, función o estado) Tj ET
+BT 59.53 440.46 Td ( D: Un requisito que define relaciones entre objetos,) Tj ET
+BT 59.53 420.61 Td (funciones o estados) Tj ET
+BT 59.53 380.93 Td ( Respuesta correcta: D) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 10 0 R>>
+endobj
+10 0 obj
+<</Length 597>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 3) Tj ET
+BT 60.87 678.57 Td (En cuanto al impacto \(coste\) de los cambios según la) Tj ET
+BT 78.63 658.72 Td (fase en que se producen, ¿En qué fase es mayor) Tj ET
+BT 235.39 638.88 Td (este impacto?) Tj ET
+BT 59.53 539.67 Td ( A: Definición/Requisitos ) Tj ET
+BT 59.53 519.83 Td ( B: Desarrollo \(Análisis, Diseño, Programación\) ) Tj ET
+BT 59.53 499.98 Td ( C: Pruebas unitarias y de integración ) Tj ET
+BT 59.53 480.14 Td ( D: Después de la entrega  ) Tj ET
+BT 59.53 440.46 Td ( Respuesta correcta: D) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 12 0 R>>
+endobj
+12 0 obj
+<</Length 937>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 4) Tj ET
+BT 89.21 678.57 Td (En Ingeniería de Requisitos, “especificación de) Tj ET
+BT 126.46 658.72 Td (requisitos software” se entiende como:) Tj ET
+BT 59.53 559.51 Td ( A: Representación de los requisitos esenciales) Tj ET
+BT 59.53 539.67 Td (\(funciones, rendimiento, restricciones de diseño y) Tj ET
+BT 59.53 519.83 Td (atributos\) del software y de sus interfaces externas ) Tj ET
+BT 59.53 499.98 Td ( B: Una representación documentada de una) Tj ET
+BT 59.53 480.14 Td (condición o capacidad necesitada por un usuario) Tj ET
+BT 59.53 460.30 Td (para resolver un problema o alcanzar un objetivo) Tj ET
+BT 59.53 440.46 Td ( C: El proceso de estudiar y refinar requisitos de) Tj ET
+BT 59.53 420.61 Td (software, hardware o de sistema) Tj ET
+BT 59.53 400.77 Td ( D: Ninguna de las anteriores) Tj ET
+BT 59.53 361.09 Td ( Respuesta correcta: A) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 14 0 R>>
+endobj
+14 0 obj
+<</Length 542>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 5) Tj ET
+BT 91.43 678.57 Td (En qué deriva una especificación de requisitos) Tj ET
+BT 260.40 658.72 Td (errónea:) Tj ET
+BT 59.53 559.51 Td ( A: En un producto con funciones correctas) Tj ET
+BT 59.53 539.67 Td ( B: En un producto con errores difíciles de corregir) Tj ET
+BT 59.53 519.83 Td ( C: En un producto con errores ocultos) Tj ET
+BT 59.53 499.98 Td ( D: En un producto con errores corregibles) Tj ET
+BT 59.53 460.30 Td ( Respuesta correcta: C) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 16 0 R>>
+endobj
+16 0 obj
+<</Length 666>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 6) Tj ET
+BT 85.88 678.57 Td (¿Qué estrategia de desarrollo de software sería) Tj ET
+BT 83.09 658.72 Td (conveniente EVITAR en caso de requisitos poco) Tj ET
+BT 203.72 638.88 Td (claros y cambiantes?) Tj ET
+BT 59.53 539.67 Td ( A: Modelo de ciclo de vida incremental e iterativo) Tj ET
+BT 59.53 519.83 Td ( B: Modelo de ciclo de vida en cascada) Tj ET
+BT 59.53 499.98 Td ( C: Metodologías ágiles) Tj ET
+BT 59.53 480.14 Td ( D: Ninguna de las anteriores es una estrategia) Tj ET
+BT 59.53 460.30 Td (adecuada en este contexto) Tj ET
+BT 59.53 420.61 Td ( Respuesta correcta: B) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 18 0 R>>
+endobj
+18 0 obj
+<</Length 1055>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 7) Tj ET
+BT 145.90 678.57 Td (Indique qué afirmación es FALSA:) Tj ET
+BT 59.53 579.35 Td ( A: El modelado mediante determinados diagramas) Tj ET
+BT 59.53 559.51 Td (está incluido en la disciplina de Ingeniería de) Tj ET
+BT 59.53 539.67 Td (Requisitos, como una alternativa para la) Tj ET
+BT 59.53 519.83 Td (representación de los requisitos) Tj ET
+BT 59.53 499.98 Td ( B: Se pueden definir métricas sobre los requisitos) Tj ET
+BT 59.53 480.14 Td ( C: Cuando la decisión es comprar un producto ya) Tj ET
+BT 59.53 460.30 Td (existente en el mercado es inútil realizar una) Tj ET
+BT 59.53 440.46 Td (especificación de requisitos previa) Tj ET
+BT 59.53 420.61 Td ( D: La comunicación de los requisitos forma parte de) Tj ET
+BT 59.53 400.77 Td (la disciplina de Ingeniería de Requisitos y facilita la) Tj ET
+BT 59.53 380.93 Td (incorporación de una cultura de requisitos en la) Tj ET
+BT 59.53 361.09 Td (organización) Tj ET
+BT 59.53 321.40 Td ( Respuesta correcta: C) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 20 0 R>>
+endobj
+20 0 obj
+<</Length 720>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 8) Tj ET
+BT 107.01 678.57 Td (Entre los objetivos de los requisitos, NO se) Tj ET
+BT 250.39 658.72 Td (encuentra:) Tj ET
+BT 59.53 559.51 Td ( A: Documentar los cambios realizados sobre los) Tj ET
+BT 59.53 539.67 Td (modelos de diseño) Tj ET
+BT 59.53 519.83 Td ( B: Servir como soporte para la verificación y) Tj ET
+BT 59.53 499.98 Td (validación de los productos obtenidos) Tj ET
+BT 59.53 480.14 Td ( C: Proporcionar la base para el diseño de software) Tj ET
+BT 59.53 460.30 Td ( D: Ninguna de las anteriores constituye un objetivo) Tj ET
+BT 59.53 440.46 Td (de los requisitos) Tj ET
+BT 59.53 400.77 Td ( Respuesta correcta: A) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 22 0 R>>
+endobj
+22 0 obj
+<</Length 828>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 9) Tj ET
+BT 79.78 678.57 Td (El requisito de un SRS “la aplicación mostrará un) Tj ET
+BT 72.53 658.72 Td (menú emergente con publicidad de la empresa, en) Tj ET
+BT 92.54 638.88 Td (los dos segundos siguientes a la selección del) Tj ET
+BT 132.57 619.04 Td (producto para su detalle informativo”:) Tj ET
+BT 59.53 519.83 Td ( A: Limita, o concreta, la ocurrencia de la función) Tj ET
+BT 59.53 499.98 Td (“mostrar menú emergente”) Tj ET
+BT 59.53 480.14 Td ( B: Es un requisito de empresa y como tal no puede) Tj ET
+BT 59.53 460.30 Td (figurar en el SRS) Tj ET
+BT 59.53 440.46 Td ( C: Sólo define un objeto de interfaz, no funcional) Tj ET
+BT 59.53 420.61 Td ( D: Ninguna de las anteriores) Tj ET
+BT 59.53 380.93 Td ( Respuesta correcta: A) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 24 0 R>>
+endobj
+24 0 obj
+<</Length 690>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 10) Tj ET
+BT 104.22 678.57 Td (¿A quién se dirigen los requisitos y con qué) Tj ET
+BT 254.84 658.72 Td (finalidad?) Tj ET
+BT 59.53 559.51 Td ( A: A usuarios potenciales o clientes, que requieren) Tj ET
+BT 59.53 539.67 Td (una descripción muy específica y detallada) Tj ET
+BT 59.53 519.83 Td ( B: A programadores de software, que requieren una) Tj ET
+BT 59.53 499.98 Td (descripción muy general que les permita adoptar) Tj ET
+BT 59.53 480.14 Td (distintas soluciones) Tj ET
+BT 59.53 460.30 Td ( C: A y B son falsas) Tj ET
+BT 59.53 440.46 Td ( D: A y B son verdaderas) Tj ET
+BT 59.53 400.77 Td ( Respuesta correcta: C) Tj ET
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R ]
+/Count 11
+/MediaBox [0 0 841.89 595.28]
+>>
+endobj
+25 0 obj
+<</Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+26 0 obj
+<</Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 25 0 R
+/F2 26 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+27 0 obj
+<<
+/Producer (FPDF 1.7)
+/CreationDate (D:20250215131203)
+>>
+endobj
+28 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /Fit]
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000010405 00000 n 
+0000010759 00000 n 
+0000000009 00000 n 
+0000000117 00000 n 
+0000000625 00000 n 
+0000000733 00000 n 
+0000002102 00000 n 
+0000002210 00000 n 
+0000003090 00000 n 
+0000003199 00000 n 
+0000003846 00000 n 
+0000003956 00000 n 
+0000004943 00000 n 
+0000005053 00000 n 
+0000005645 00000 n 
+0000005755 00000 n 
+0000006471 00000 n 
+0000006581 00000 n 
+0000007687 00000 n 
+0000007797 00000 n 
+0000008567 00000 n 
+0000008677 00000 n 
+0000009555 00000 n 
+0000009665 00000 n 
+0000010560 00000 n 
+0000010662 00000 n 
+0000010875 00000 n 
+0000010951 00000 n 
+trailer
+<<
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+>>
+startxref
+11026
+%%EOF

@@ -1,0 +1,424 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 489>>
+stream
+2 J
+0.57 w
+BT /F1 20.00 Tf ET
+BT 107.57 774.94 Td (Sistema de Respuesta a Distancia Móvil) Tj ET
+BT /F2 20.00 Tf ET
+BT 59.53 718.25 Td (Autor: ) Tj ET
+BT 59.53 670.06 Td (Fecha: 01 de Marzo de 2025) Tj ET
+BT 59.53 624.71 Td (Cuestionario:) Tj ET
+BT 59.53 604.86 Td (                      Id: iuz7f) Tj ET
+BT 59.53 585.02 Td (                      Nombre: B3-T2-2 Espec textuales) Tj ET
+BT 59.53 565.18 Td (24-25) Tj ET
+BT 59.53 508.48 Td (Número de preguntas: 10) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 6 0 R>>
+endobj
+6 0 obj
+<</Length 479>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 769.28 Td (Pregunta número: 1) Tj ET
+BT 69.23 689.91 Td (El requisito “El editor resaltará en un color llamativo) Tj ET
+BT 153.69 670.06 Td (las palabras no reconocidas” es:) Tj ET
+BT 59.53 570.85 Td ( A: Inconsistente) Tj ET
+BT 59.53 551.01 Td ( B: Correcto) Tj ET
+BT 59.53 531.17 Td ( C: Completo y no ambiguo) Tj ET
+BT 59.53 511.32 Td ( D: Incompleto y ambiguo) Tj ET
+BT 59.53 471.64 Td ( Respuesta correcta: D) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 8 0 R>>
+endobj
+8 0 obj
+<</Length 962>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 2) Tj ET
+BT 62.55 678.57 Td (Las listas de comprobación \(checklists\) en Ingeniería) Tj ET
+BT 234.28 658.72 Td (de Requisitos:) Tj ET
+BT 59.53 559.51 Td ( A: Ayudan en la actividad de inspección de) Tj ET
+BT 59.53 539.67 Td (requisitos a detectar posibles problemas en los) Tj ET
+BT 59.53 519.83 Td (documentos de requisitos) Tj ET
+BT 59.53 499.98 Td ( B: Ayudan en la actividad de inspección de) Tj ET
+BT 59.53 480.14 Td (requisitos a detectar posibles problemas en los) Tj ET
+BT 59.53 460.30 Td (requisitos) Tj ET
+BT 59.53 440.46 Td ( C: Estas listas no se usan en Ingeniería de) Tj ET
+BT 59.53 420.61 Td (Requisitos, sino sólo en la fase de pruebas del) Tj ET
+BT 59.53 400.77 Td (software ya implementado, por ello se denominan) Tj ET
+BT 59.53 380.93 Td (checklists) Tj ET
+BT 59.53 361.09 Td ( D: A y B son ciertas) Tj ET
+BT 59.53 321.40 Td ( Respuesta correcta: D) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 10 0 R>>
+endobj
+10 0 obj
+<</Length 763>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 3) Tj ET
+BT 86.77 678.57 Td (El requisito "el sistema de búsqueda de empleo) Tj ET
+BT 71.98 658.72 Td (proporcionará las siguientes respuestas en función) Tj ET
+BT 83.67 638.88 Td (del número de meses \(N\) que el trabajador lleva) Tj ET
+BT 71.76 619.04 Td (parado." no-aceptado \(N mayor que 0 y menor que) Tj ET
+BT 94.77 599.20 Td (3\), pendiente \(N mayor que 3 y menor que 6\),) Tj ET
+BT 165.36 579.35 Td (aceptado \(N mayor que 6\) es:) Tj ET
+BT 59.53 480.14 Td ( A: Inconsistente) Tj ET
+BT 59.53 460.30 Td ( B: Correcto y no ambiguo) Tj ET
+BT 59.53 440.46 Td ( C: Ambiguo) Tj ET
+BT 59.53 420.61 Td ( D: Incompleto) Tj ET
+BT 59.53 380.93 Td ( Respuesta correcta: D) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 12 0 R>>
+endobj
+12 0 obj
+<</Length 1182>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 4) Tj ET
+BT 66.98 678.57 Td (Cuando tratamos de trazabilidad en relación con los) Tj ET
+BT 117.60 658.72 Td (requisitos \(como por ejemplo, en CMMi\):) Tj ET
+BT 59.53 559.51 Td ( A: Nos referimos exclusivamente  a trazabilidad) Tj ET
+BT 59.53 539.67 Td (entre requisitos del mismo o de distintos documentos) Tj ET
+BT 59.53 519.83 Td (de requisitos) Tj ET
+BT 59.53 499.98 Td ( B: Nos referimos a las relaciones entre requisitos en) Tj ET
+BT 59.53 480.14 Td (general,  y entre estos y cualquier otro artefacto  del) Tj ET
+BT 59.53 460.30 Td (desarrollo que sea posterior a la especificacion de) Tj ET
+BT 59.53 440.46 Td (requisitos) Tj ET
+BT 59.53 420.61 Td ( C: Nos referimos exclusivamente a trazabilidad entre) Tj ET
+BT 59.53 400.77 Td (requisitos del mismo documento ) Tj ET
+BT 59.53 380.93 Td ( D: Como en B, y además a la trazabilidad de los) Tj ET
+BT 59.53 361.09 Td (requisitos con cualquier otro elemento relacionado,) Tj ET
+BT 59.53 341.24 Td (existente de forma previa a la especificación de) Tj ET
+BT 59.53 321.40 Td (requisitos) Tj ET
+BT 59.53 281.72 Td ( Respuesta correcta: D) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 14 0 R>>
+endobj
+14 0 obj
+<</Length 813>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 5) Tj ET
+BT 74.76 678.57 Td (La sentencia “La aplicación mostrará un listado de) Tj ET
+BT 78.64 658.72 Td (los alumnos que hayan adquirido en préstamo un) Tj ET
+BT 170.93 638.88 Td (determinado libro” describe: ) Tj ET
+BT 59.53 539.67 Td ( A: Un requisito que define relaciones entre objetos,) Tj ET
+BT 59.53 519.83 Td (funciones o estados) Tj ET
+BT 59.53 499.98 Td ( B: Un requisito que limita las acciones asociadas) Tj ET
+BT 59.53 480.14 Td (con un objeto, función o estado) Tj ET
+BT 59.53 460.30 Td ( C: Un requisito no funcional) Tj ET
+BT 59.53 440.46 Td ( D: No es un requisito válido, al no ser posible su) Tj ET
+BT 59.53 420.61 Td (comprobación de forma medible) Tj ET
+BT 59.53 380.93 Td ( Respuesta correcta: A) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 16 0 R>>
+endobj
+16 0 obj
+<</Length 1095>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 6) Tj ET
+BT 108.68 678.57 Td (Indica la sentencia VERDADERA entre las) Tj ET
+BT 249.84 658.72 Td (siguientes:) Tj ET
+BT 59.53 559.51 Td ( A: La relación de trazabilidad de Exclusión es la) Tj ET
+BT 59.53 539.67 Td (inversa a la relación de trazabilidad inclusiva) Tj ET
+BT 59.53 519.83 Td (\(también llamada de refinamiento\)) Tj ET
+BT 59.53 499.98 Td ( B: La relación de trazabilidad de Exclusión NO debe) Tj ET
+BT 59.53 480.14 Td (aparecer en los llamados documentos de requisitos) Tj ET
+BT 59.53 460.30 Td (que son catálogos reutilizables) Tj ET
+BT 59.53 440.46 Td ( C: La relacion de trazabilidad de Exclusión NO debe) Tj ET
+BT 59.53 420.61 Td (aparecer en el documento de requisitos de un) Tj ET
+BT 59.53 400.77 Td (proyecto concreto, pues generaría conflictos) Tj ET
+BT 59.53 380.93 Td ( D: La relacion de trazabilidad de Exclusión puede) Tj ET
+BT 59.53 361.09 Td (aparecer en cualquier tipo de documento de) Tj ET
+BT 59.53 341.24 Td (requisitos) Tj ET
+BT 59.53 301.56 Td ( Respuesta correcta: C) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 18 0 R>>
+endobj
+18 0 obj
+<</Length 1096>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 7) Tj ET
+BT 76.96 678.57 Td (El estándar IEEE 29148-2011 sobre ingeniería de) Tj ET
+BT 73.09 658.72 Td (requisitos ofrece guías para los siguientes tipos de) Tj ET
+BT 180.92 638.88 Td (documentos de requisitos:) Tj ET
+BT 59.53 539.67 Td ( A: SRS \(Software requirements specification\), SyRS) Tj ET
+BT 59.53 519.83 Td (\(System requirements specification\) y StRS) Tj ET
+BT 59.53 499.98 Td (\(Stakeholder requirements specification\)) Tj ET
+BT 59.53 480.14 Td ( B: SRS \(Software requirements specification\), SyRS) Tj ET
+BT 59.53 460.30 Td (\(System requirements specification\), StRS) Tj ET
+BT 59.53 440.46 Td (\(Stakeholder requirements specification\) y StS) Tj ET
+BT 59.53 420.61 Td (\(Software test specification\)) Tj ET
+BT 59.53 400.77 Td ( C: Sólo SRS \(Software requirements specification\)) Tj ET
+BT 59.53 380.93 Td ( D: Sólo SRS \(Software requirements specification\) y) Tj ET
+BT 59.53 361.09 Td (SyRS \(System requirements specification\)) Tj ET
+BT 59.53 321.40 Td ( Respuesta correcta: A) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 20 0 R>>
+endobj
+20 0 obj
+<</Length 1116>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 8) Tj ET
+BT 94.78 678.57 Td (La Metainformación asociada a los requisitos:) Tj ET
+BT 59.53 579.35 Td ( A: Se refiere a la información general que sobre el) Tj ET
+BT 59.53 559.51 Td (proyecto se aporta en la introducción y texto, por) Tj ET
+BT 59.53 539.67 Td (ejemplo en el estándar IEEE 830-1998, secciones 1 y) Tj ET
+BT 59.53 519.83 Td (2) Tj ET
+BT 59.53 499.98 Td ( B: La Metainformación del requisito describe) Tj ET
+BT 59.53 480.14 Td (exclusivamente su identificación \(código\), nombre y) Tj ET
+BT 59.53 460.30 Td (descripción, que puede ser textual o bien gráfica) Tj ET
+BT 59.53 440.46 Td ( C: La Metainformación es lo mismo que la) Tj ET
+BT 59.53 420.61 Td (trazabilidad, y solo se refiere a este atributo del) Tj ET
+BT 59.53 400.77 Td (requisito, en caso de que exista) Tj ET
+BT 59.53 380.93 Td ( D: Se refiere a los atributos que podemos asociar a) Tj ET
+BT 59.53 361.09 Td (cada requisito, como nombre, prioridad, fuente,) Tj ET
+BT 59.53 341.24 Td (fecha,etc.) Tj ET
+BT 59.53 301.56 Td ( Respuesta correcta: D) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 22 0 R>>
+endobj
+22 0 obj
+<</Length 1124>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 9) Tj ET
+BT 94.77 678.57 Td (Las restricciones de diseño impuestas en una) Tj ET
+BT 102.01 658.72 Td (implementación \(políticas sobre estándares,) Tj ET
+BT 66.42 638.88 Td (lenguajes de programación, entornos operativos,...\):) Tj ET
+BT 59.53 539.67 Td ( A: Se incluyen en el documento TST, donde se) Tj ET
+BT 59.53 519.83 Td (especifica además cómo verificar los requisitos una) Tj ET
+BT 59.53 499.98 Td (vez implementado el sistema) Tj ET
+BT 59.53 480.14 Td ( B: Se incluyen en el documento SRS de acuerdo) Tj ET
+BT 59.53 460.30 Td (con el estándar IEEE 830-98) Tj ET
+BT 59.53 440.46 Td ( C: No se incluyen en el documento SRS de acuerdo) Tj ET
+BT 59.53 420.61 Td (con el estándar IEEE 830-98, sino en el plan del) Tj ET
+BT 59.53 400.77 Td (proyecto, en documento aparte) Tj ET
+BT 59.53 380.93 Td ( D: No se incluyen en el documento SRS de acuerdo) Tj ET
+BT 59.53 361.09 Td (con el estándar IEEE 830-98, sino en los) Tj ET
+BT 59.53 341.24 Td (correspondientes modelos de diseño) Tj ET
+BT 59.53 301.56 Td ( Respuesta correcta: B) Tj ET
+BT /F2 20.00 Tf ET
+
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.28 841.89]
+/Resources 2 0 R
+/Contents 24 0 R>>
+endobj
+24 0 obj
+<</Length 1122>>
+stream
+2 J
+0.57 w
+BT /F2 20.00 Tf ET
+BT 59.53 757.94 Td (Pregunta número: 10) Tj ET
+BT 74.75 678.57 Td (En relación con el  estándar de requisitos de IEEE) Tj ET
+BT 113.68 658.72 Td (830-98 indica la sentencia VERDADERA:) Tj ET
+BT 59.53 559.51 Td ( A: Ofrece 7 plantillas posibles para organizar los) Tj ET
+BT 59.53 539.67 Td (requisitos específicos de un proyecto, que no pueden) Tj ET
+BT 59.53 519.83 Td (combinarse en ningún caso, hay que elegir y) Tj ET
+BT 59.53 499.98 Td (decidirse por una de ellas) Tj ET
+BT 59.53 480.14 Td ( B: Ofrece 8 plantillas posibles para organizar los) Tj ET
+BT 59.53 460.30 Td (requisitos específicos de un proyecto, siendo la) Tj ET
+BT 59.53 440.46 Td (octava la que permite combinar dos o más de las) Tj ET
+BT 59.53 420.61 Td (anteriores) Tj ET
+BT 59.53 400.77 Td ( C: Ofrece 8 plantillas posibles para organizar los) Tj ET
+BT 59.53 380.93 Td (requisitos específicos de un proyecto, de las que) Tj ET
+BT 59.53 361.09 Td (deben combinarse al menos 2 de forma obligatoria) Tj ET
+BT 59.53 341.24 Td ( D: Ninguna de las anteriores es cierta) Tj ET
+BT 59.53 301.56 Td ( Respuesta correcta: B) Tj ET
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R ]
+/Count 11
+/MediaBox [0 0 841.89 595.28]
+>>
+endobj
+25 0 obj
+<</Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+26 0 obj
+<</Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 25 0 R
+/F2 26 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+27 0 obj
+<<
+/Producer (FPDF 1.7)
+/CreationDate (D:20250301170057)
+>>
+endobj
+28 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /Fit]
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000012006 00000 n 
+0000012360 00000 n 
+0000000009 00000 n 
+0000000117 00000 n 
+0000000655 00000 n 
+0000000763 00000 n 
+0000001291 00000 n 
+0000001399 00000 n 
+0000002410 00000 n 
+0000002519 00000 n 
+0000003332 00000 n 
+0000003442 00000 n 
+0000004675 00000 n 
+0000004785 00000 n 
+0000005648 00000 n 
+0000005758 00000 n 
+0000006904 00000 n 
+0000007014 00000 n 
+0000008161 00000 n 
+0000008271 00000 n 
+0000009438 00000 n 
+0000009548 00000 n 
+0000010723 00000 n 
+0000010833 00000 n 
+0000012161 00000 n 
+0000012263 00000 n 
+0000012476 00000 n 
+0000012552 00000 n 
+trailer
+<<
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+>>
+startxref
+12627
+%%EOF
