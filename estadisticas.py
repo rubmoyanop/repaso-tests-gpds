@@ -282,9 +282,15 @@ def mostrar_estadisticas_globales():
     cuestionarios = get_stats_by_category()
     
     if cuestionarios:
-        fig2, ax2 = plt.subplots(figsize=(8, 6))
         cuestionario_names = list(cuestionarios.keys())
-        success_rates = [(data["intentos"] - data["fallos"]) / data["intentos"] * 100 if data["intentos"] > 0 else 0 for data in cuestionarios.values()]
+        if cuestionario_names != sorted(cuestionario_names):
+            # Si no están ordenados, los ordenamos
+            cuestionarios = {k: cuestionarios[k] for k in sorted(cuestionarios.keys())}
+            cuestionario_names = list(cuestionarios.keys())
+        
+        fig2, ax2 = plt.subplots(figsize=(8, 6))
+        # Usar la lista ordenada
+        success_rates = [(cuestionarios[name]["intentos"] - cuestionarios[name]["fallos"]) / cuestionarios[name]["intentos"] * 100 if cuestionarios[name]["intentos"] > 0 else 0 for name in cuestionario_names]
         
         bars = ax2.bar(cuestionario_names, success_rates, color='#2196F3')
         
@@ -315,7 +321,9 @@ def mostrar_estadisticas_globales():
             tree2.heading(col, text=col)
             tree2.column(col, anchor="w", width=120)
         
-        for cuestionario, data in cuestionarios.items():
+        # Insertar en orden alfabético
+        for cuestionario in cuestionario_names:
+            data = cuestionarios[cuestionario]
             tasa = (data["fallos"] / data["intentos"] * 100) if data["intentos"] > 0 else 0
             tree2.insert("", "end", values=(cuestionario, data["preguntas"], data["intentos"], data["fallos"], f"{tasa:.1f}%"))
         
@@ -365,10 +373,12 @@ def mostrar_estadisticas_globales():
     
     if tiempo_por_cat:
         # Calcular tiempos medios
-        tiempos_medios = {cat: sum(tiempos)/len(tiempos) if tiempos else 0 for cat, tiempos in tiempo_por_cat.items()}
+        cats = list(tiempo_por_cat.keys())
+        if cats != sorted(cats):
+            cats = sorted(cats)
+        tiempos_medios = {cat: sum(tiempo_por_cat[cat])/len(tiempo_por_cat[cat]) if tiempo_por_cat[cat] else 0 for cat in cats}
         
         fig4, ax4 = plt.subplots(figsize=(8, 6))
-        cats = list(tiempos_medios.keys())
         times = list(tiempos_medios.values())
         
         bars2 = ax4.bar(cats, times, color='#FF9800')
